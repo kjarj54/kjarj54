@@ -20,4 +20,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=kjarj54&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/kjarj54/kjarj54/output/snake.svg" alt="Snake animation" />
+
+###
