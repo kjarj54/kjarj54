@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">👾Hello! I am a passionate junior developer looking for new opportunities to grow and learn. My name is Kevin.</p>
+<p align="center">👾Hello! I am a passionate developer looking for new opportunities to grow and learn. My name is Kevin.</p>
 
 ###
 
