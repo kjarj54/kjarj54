@@ -93,8 +93,19 @@
 ###
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kjarj54&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kjarj54&theme=dark&hide_border=false)<br/>
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kjarj54&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kjarj54&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kjarj54&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ###
