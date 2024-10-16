@@ -119,3 +119,5 @@
 <img src="https://raw.githubusercontent.com/kjarj54/kjarj54/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/651f0760c80c02e99da35ebd?variant=dark" alt="roadmap.sh"/></a>
